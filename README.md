@@ -1,10 +1,11 @@
 # Real-Time-Bus-Tracking
 
-Name: Move Ball 
-Description: This project tracks bus locations real time.
-Installation: Download and drag and drop on browser. 
-Usage: This project is a good intro to moving objects in javascript. 
-Support: No additional support provided.
+Title: Real Time Bus Tracking
 
+Description: This project tracks bus locations for MBTA in real time. It first querys the MBTA API for the information and then posts the location to a google map. 
 
-README file includes: Title Description of project (minimum 20 words) How to Run Roadmap of future improvements License information
+How to run: Download and then signup for your own google maps API key. You will need to add that to the HTML file. Then drag and drop on browser. 
+
+Future improvements: I would like to figure out how to use this for other cities.
+
+License information: MIT License.
